@@ -1,5 +1,11 @@
-# Almänna instruktioner
+# Kasta tärningen (Cast the dice)
 Detta är en inlämningsuppgift för kursen Programmering med CSharp för IT högskolan. Det är en enkel consol applikation för grundläggande c# där användaren ska kunna spela ett tärningsspel. Spelaren ska försöka få 12 på två tärningar. Spelaren har 3 försök på sig. 
+
+### Skillnad mellan uppgiftens requirments och vad som faktiskt är inlämnat
+Upggiften kräver enbart att applikationen ska kunna kasta tärningen och visa summan av två tärningar för användaren. Om summan är tolv så ska användaren få reda på att han vunnit. 
+
+Min applikation är lite mer avancerad med ett system som ger användaren 3 försök. Applikationen håller reda på hur många kast användaren har gjort och när användaren har slut på försök blir det game over. 
+Applikationen talar visar även mer information för användaren, tex summan för varje tärning samt summan för varje kast. 
 
 
 # Pseudokod och dokumentation: 
