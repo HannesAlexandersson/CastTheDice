@@ -1,6 +1,5 @@
-# Till Mikael
-
-Hej Mikael! Som jag skrev i mailet så hade jag missat att 
+# Almänna instruktioner
+Detta är en inlämningsuppgift för kursen Programmering med CSharp för IT högskolan. Det är en enkel consol applikation för grundläggande c# där användaren ska kunna spela ett tärningsspel. Spelaren ska försöka få 12 på två tärningar. Spelaren har 3 försök på sig. 
 
 
 # Pseudokod och dokumentation: 
